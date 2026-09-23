@@ -41,8 +41,6 @@
 | **[QuickGlot](https://github.com/No1Joon/quickglot)** | Safari 선택 텍스트 번역 확장 — Apple 온디바이스 번역으로 서버·네트워크 없이 동작, Mac·iPhone·iPad [App Store](https://apps.apple.com/kr/app/quickglot/id6807894387) 출시 |
 | **Oh My Quota** | Claude Code·Codex의 남은 한도와 리셋 시각을 보여 주는 macOS 메뉴바 앱 — SwiftUI, 임계치 알림 |
 | **로키 (Law+Key)** | AI 법률 상담 플랫폼 — 사전 질문지 진단부터 서류 생성까지, React·Redux + NestJS·OpenAI (광명시 청년동 팀 프로젝트) |
-| **naver-posting** | LLM 에이전트 기반 기술 콘텐츠 생산 파이프라인 — 커스텀 스킬 11종 + Python, 주 5편 이상 발행 |
-| **privacy-policy-apps** | 개인 앱들의 개인정보 처리방침·지원 페이지 허브 — Astro · Firebase |
 
 ## Writing
 
