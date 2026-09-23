@@ -12,16 +12,20 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-- **Frontend** React · React Native(Expo) · Vue 3 · Next.js · Redux / Zustand · Tailwind · i18n
-- **Backend** NestJS · Node.js · Python · MongoDB · PostgreSQL · Temporal · Kafka
+- **Frontend** React · React Native(Expo) · Vue 3 · Next.js · Redux / Zustand · Tailwind · i18n · Swift(SwiftUI)
+- **Backend** NestJS · Node.js · Python(FastAPI) · Go · MongoDB · PostgreSQL · Redis · Temporal · Kafka
 - **Data / AI** LLM 통합(Gemini · OpenAI) · Computer Vision(Detection · Tracking · Homography) · STT(Whisper) · 데이터 비식별화 파이프라인
 - **Infra** Docker · Kubernetes · GCP(Cloud Run · Vertex AI) · CI/CD
 
