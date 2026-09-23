@@ -29,8 +29,13 @@
 
 | | |
 |---|---|
-| **[Oh My Algorithm](https://ohmyalgorithm.com)** | React 19 알고리즘 시각화 웹앱 — 재사용 컴포넌트 74개, 한/영 i18n, 자체 SSG로 실서비스 운영 |
-| **JJTeam** | Expo/React Native 코트 스포츠 팀 구성·대기열 앱 — 단일 코드베이스로 App Store·Play 출시, WebSocket 실시간 동기화 |
+| **[팀플러 (Teampler)](https://teampler.com)** | 동호회 커뮤니티·코트 대기열 앱 — 동아리 발견·참석 신청·실시간 코트 배정, Expo/React Native + FastAPI·WebSocket, App Store·Play 출시 |
+| **[CaliMeal](https://calimeal.com)** | AI 급식 식단 생성 B2B SaaS — Next.js 16 + Vertex AI Gemini·pgvector, Postgres RLS 멀티테넌트, 게시·PDF·한/영 지원 |
+| **[Try Ticketing](https://tryticketing.com)** | 티켓팅·수강신청 연습 사이트 — React 19 + Go·Redis Lua 좌석 선점·FIFO 대기열, 사이트별 서버시간 측정 |
+| **[Oh My Algorithm](https://www.ohmyalgorithm.com)** | 알고리즘·기술 개념을 한 단계씩 보여 주는 인터랙티브 시각화 웹앱 — React 19 · Vite · 한/영 · 자체 프리렌더 |
+| **[archdraw](https://github.com/No1Joon/archdraw)** | YAML로 클라우드 아키텍처 다이어그램(SVG/PNG)을 그리는 npm CLI — AI CLI용, AWS·GCP·브랜드 아이콘 4,400여 개, LLM 호출 없음 |
+| **[QuickGlot](https://github.com/No1Joon/quickglot)** | Safari 선택 텍스트 번역 확장 — Apple 온디바이스 번역으로 서버·네트워크 없이 동작, Mac·iPhone·iPad [App Store](https://apps.apple.com/kr/app/quickglot/id6807894387) 출시 |
+| **Oh My Quota** | Claude Code·Codex의 남은 한도와 리셋 시각을 보여 주는 macOS 메뉴바 앱 — SwiftUI, 임계치 알림 |
 | **로키 (Law+Key)** | AI 법률 상담 플랫폼 — 사전 질문지 진단부터 서류 생성까지, React·Redux + NestJS·OpenAI (광명시 청년동 팀 프로젝트) |
 | **naver-posting** | LLM 에이전트 기반 기술 콘텐츠 생산 파이프라인 — 커스텀 스킬 11종 + Python, 주 5편 이상 발행 |
 | **privacy-policy-apps** | 개인 앱들의 개인정보 처리방침·지원 페이지 허브 — Astro · Firebase |
