@@ -31,18 +31,37 @@
 
 ## Projects
 
-| | |
-|---|---|
-| **[팀플러 (Teampler)](https://teampler.com)** | 동호회 커뮤니티·코트 대기열 앱 — 동아리 발견·참석 신청·실시간 코트 배정, Expo/React Native + Go·MongoDB·WebSocket, App Store·Play 출시 |
-| **[CaliMeal](https://calimeal.com)** | AI 급식 식단 생성 B2B SaaS — Next.js 16 + Vertex AI Gemini·pgvector, Postgres RLS 멀티테넌트, NEIS 과거 식단 가져오기·게시·PDF·한/영 지원 |
-| **[내깜냥](https://apps.apple.com/kr/app/id6819194143)** | 취업 인적성·인성 검사 연습 앱 — 기억력·판단력 게임 5종·인성 자기점검·회사별 기초 문제, Expo/React Native + Go, App Store 출시·Google Play 비공개 테스트 |
-| **[Try Ticketing](https://tryticketing.com)** | 티켓팅·수강신청 연습 사이트 — 1분 라운드 예매 연습과 실제 예매·수강신청 화면을 본뜬 실전 연습, React 19 + Go·Redis Lua 좌석 선점·FIFO 대기열, 사이트별 서버시간 측정 |
-| **[Oh My Algorithm](https://www.ohmyalgorithm.com)** | 알고리즘과 Docker·Kafka·Kubernetes·LLM 개념을 한 단계씩 보여 주는 인터랙티브 시각화 웹앱 — React 19 · Vite · Three.js · 한/영 · 자체 프리렌더 |
-| **[Oh My Universe](https://oh-my-universe.web.app)** | 태양계·외계 행성계·성운·은하를 하나의 3D 장면에서 날아다니는 우주 탐험 웹앱 — React · Three.js, NASA 지도·JPL 궤도 요소·NASA Exoplanet Archive 기반 |
-| **[archdraw](https://github.com/No1Joon/archdraw)** | YAML로 클라우드 아키텍처 다이어그램(SVG/PNG)을 그리는 npm CLI — AI CLI용, AWS·GCP·브랜드 아이콘 4,400여 개, 시나리오별 뷰·그룹 접기·품질 진단, LLM 호출 없음 |
-| **[QuickGlot](https://github.com/No1Joon/quickglot)** | Safari 선택 텍스트 번역 확장 — Apple 온디바이스 번역으로 서버·네트워크 없이 동작, Mac·iPhone·iPad [App Store](https://apps.apple.com/kr/app/quickglot/id6807894387) 출시 |
-| **[Oh My Quota](https://apps.apple.com/kr/app/oh-my-quota/id6814418583)** | Claude Code·Codex의 남은 한도와 리셋 시각을 보여 주는 macOS 메뉴바 앱 — SwiftUI, 임계치 알림, Mac App Store 출시 |
-| **로키 (Law+Key)** | AI 법률 상담 플랫폼 — 사전 질문지 진단부터 서류 생성까지, React·Redux + NestJS·OpenAI (광명시 청년동 팀 프로젝트) |
+### 📱 모바일 앱
+
+- **[팀플러 (Teampler)](https://teampler.com)** — 동호회 커뮤니티·코트 대기열 앱. 동아리 발견, 참석 신청, 실시간 코트 배정  
+  <sub>Expo/React Native · Go · MongoDB · WebSocket · App Store·Google Play 출시</sub>
+- **[내깜냥](https://apps.apple.com/kr/app/id6819194143)** — 취업 인적성·인성 검사 연습 앱. 기억력·판단력 게임, 인성 자기점검, 회사별 기초 문제  
+  <sub>Expo/React Native · Go · App Store 출시 · Google Play 비공개 테스트</sub>
+
+### 🌐 웹 서비스
+
+- **[CaliMeal](https://calimeal.com)** — 학교 급식 식단을 AI로 짜 주는 B2B SaaS. NEIS 과거 식단 가져오기, 게시·PDF, 한/영  
+  <sub>Next.js 16 · Vertex AI Gemini · pgvector · Postgres RLS 멀티테넌트</sub>
+- **[Try Ticketing](https://tryticketing.com)** — 티켓팅·수강신청 연습 사이트. 1분 라운드 예매 연습, 실전 화면 연습, 사이트별 서버시간 측정  
+  <sub>React 19 · Go · Redis Lua 좌석 선점 · FIFO 대기열</sub>
+- **[Oh My Algorithm](https://www.ohmyalgorithm.com)** — 알고리즘과 Docker·Kafka·Kubernetes·LLM 개념을 한 단계씩 보여 주는 인터랙티브 시각화  
+  <sub>React 19 · Vite · Three.js · 한/영 · 자체 프리렌더</sub>
+- **[Oh My Universe](https://oh-my-universe.web.app)** — 태양계·외계 행성계·성운·은하를 하나의 3D 장면에서 날아다니는 우주 탐험  
+  <sub>React · Three.js · NASA 지도 · JPL 궤도 요소 · NASA Exoplanet Archive</sub>
+
+### 🛠 개발 도구
+
+- **[archdraw](https://github.com/No1Joon/archdraw)** — YAML로 클라우드 아키텍처 다이어그램(SVG/PNG)을 그리는 AI CLI용 npm 도구  
+  <sub>AWS·GCP·브랜드 아이콘 4,400여 개 · 시나리오별 뷰 · 그룹 접기 · 품질 진단 · LLM 호출 없음</sub>
+- **[QuickGlot](https://github.com/No1Joon/quickglot)** — Safari에서 선택한 텍스트를 서버 없이 온디바이스로 번역하는 확장  
+  <sub>Apple Translation · Mac·iPhone·iPad [App Store](https://apps.apple.com/kr/app/quickglot/id6807894387) 출시</sub>
+- **[Oh My Quota](https://apps.apple.com/kr/app/oh-my-quota/id6814418583)** — Claude Code·Codex의 남은 한도와 리셋 시각을 보여 주는 macOS 메뉴바 앱  
+  <sub>SwiftUI · 임계치 알림 · Mac App Store 출시</sub>
+
+### 👥 팀 프로젝트
+
+- **로키 (Law+Key)** — AI 법률 상담 플랫폼. 사전 질문지 진단부터 서류 생성까지  
+  <sub>React · Redux · NestJS · OpenAI · 광명시 청년동</sub>
 
 ## Writing
 
