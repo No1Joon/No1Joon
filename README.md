@@ -56,7 +56,7 @@
 - **[QuickGlot](https://github.com/No1Joon/quickglot)** — Safari에서 선택한 텍스트를 서버 없이 온디바이스로 번역하는 확장  
   <sub>Apple Translation · Mac·iPhone·iPad [App Store](https://apps.apple.com/kr/app/quickglot/id6807894387) 출시</sub>
 - **[Oh My Quota](https://apps.apple.com/kr/app/oh-my-quota/id6814418583)** — Claude Code·Codex의 남은 한도와 리셋 시각을 보여 주는 macOS 메뉴바 앱  
-  <sub>SwiftUI · 임계치 알림 · Mac App Store 출시</sub>
+  <sub>SwiftUI · 임계치 알림 · 14개 언어 · Mac App Store 출시</sub>
 
 ### 👥 팀 프로젝트
 
@@ -65,7 +65,7 @@
 
 ## Writing
 
-- [no1joon.github.io](https://no1joon.github.io) — AI · Tech · Science 글 60여 편
+- [no1joon.github.io](https://no1joon.github.io) — AI · Tech · Science 글 260여 편
 - [blog.naver.com/rottensweetpotato](https://blog.naver.com/rottensweetpotato) — IT/AI 기술 블로그
 
 ## Contact
