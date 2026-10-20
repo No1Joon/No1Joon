@@ -58,6 +58,11 @@
 - **[Oh My Quota](https://apps.apple.com/kr/app/oh-my-quota/id6814418583)** — Claude Code·Codex의 남은 한도와 리셋 시각을 보여 주는 macOS 메뉴바 앱  
   <sub>SwiftUI · 임계치 알림 · 14개 언어 · Mac App Store 출시</sub>
 
+### 🎬 콘텐츠
+
+- **[Gooma Goes Korea](https://www.youtube.com/@GoomaGoesKorea)** — 고구마 캐릭터 구마가 해외 시청자에게 한국 음식·생활문화·여행을 소개하는 숏폼 채널  
+  <sub>YouTube · [Instagram](https://www.instagram.com/goomagoeskorea) · 영어 내레이션 + 한/영 자막 · Python·FFmpeg·Colab 렌더링 파이프라인</sub>
+
 ### 👥 팀 프로젝트
 
 - **로키 (Law+Key)** — AI 법률 상담 플랫폼. 사전 질문지 진단부터 서류 생성까지  
